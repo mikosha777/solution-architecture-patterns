@@ -121,6 +121,7 @@ infrastructure mentioned above.
 If you have read this far, you may be wondering what is the API management platform you are going to select? Even though the topic of the article suggests a selection process, the final decision on a particular vendor always in the hands of the respective organization. In this article, we covered the fundamental requirements of an API platform and how that can be scaled within an organization to reach out to more customers and then make it future proof. In terms of vendor selection, here is a list of vendors that fits into the above-mentioned requirements. 
 
 - IBM API Connect
+- Red Hat 3Scale and APICast
 - Apigee
 - WSO2 API Manager
 - Kong Enterprise
