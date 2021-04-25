@@ -221,4 +221,5 @@ Given below is a list of leading vendors in the enterprise integration technolog
 - Mulesoft
 - Tibco
 - IBM
+- Red Hat
 - Dell Boomi
